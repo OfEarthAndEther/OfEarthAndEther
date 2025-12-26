@@ -9,4 +9,4 @@ Deciphering the convergence of human cognition, philosophy, and artificial intel
 My [Digital Garden]().
 <!-- have to add profile website link above -->
 
-[![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfEarthAndEther&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Srishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=OfEarthAndEther&show_icons=true&theme=radical)](https://github.com/OfEarthAndEther/github-readme-stats)
